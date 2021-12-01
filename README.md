@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prutha2104
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning JavaScript
-- 💞️ 
+- 💞️ in relationship with Database
 - 📫 How to reach me- mail me at desaipruth0105@gmail.com
 
 <!---
